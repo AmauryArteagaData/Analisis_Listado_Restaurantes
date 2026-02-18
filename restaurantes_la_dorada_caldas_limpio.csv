@@ -1,0 +1,124 @@
+item,nombre,direccion_comercial,casificación_por_concepto,mesas,sillas,aforo,domicilios,teléfono_limpio
+1,Restaurante Los Almendros,C 10 3 85,Fast Food - Restaurante Familiar - Asados a La parrilla,20,4,80,SI,3137325372
+2,Delicias de la 10,C 10 4 03,Restaurante familiar - Menú ejecutivo,17,4,68,SI,3103495036
+3,Mekatos,K 4 9 02,Fast Food - Restaurante Familiar,38,4,152,SI,3137769890
+4,Restaurante Chino Fú Dú,C 9 5 49,Restaurante temático - Restaurante Familiar,16,4,64,SI,3116198601
+5,La Bufala Express,K 2 8 09,Fast Food - Hamburguesas de Bufala,6,4,24,SI,3142210770
+6,Fonda La Herradura,K 2 7 127,Restaurante Familiar - asados,20,4,80,SI,3234243567
+7,Combos del establo,C 8 6 07,Fast Food - combos - Restaurante familiar,14,4,56,SI,3219618375
+8,Palo Santo Gastro Bar,K 6 8 24,Fast Food - Restaurante familiar,19,4,76,SI,3218039340
+9,Omnivoro,K 6 8 29,Fast Food - Ensaladas,8,4,32,SI,3116170711
+10,Candi Explot,K 6 7 50,Obleas - Fresas con Kema,5,4,20,SI,3202233046
+11,Heladería Don Jugo,K 6 C 7 esquina,Jugos tropicales - Helados,6,4,24,SI,3218861435
+12,The Burguer,K 6 7 16,Fast Food,7,4,28,SI,3148870739
+13,Vikingo,K 6 7 33,Fast Food - Papa loca - Carnes,12,4,48,SI,3217647790
+14,Sandwiche Bike,K 6 7 27,Fast Food - Sandwiches,3,4,12,SI,3138915755
+15,Mangiare Pizza,K 6 6 21,Fast Food - pizzas,11,4,44,SI,3122438671
+16,Bendita empanada,K 6 6 27,Empanadas - Fast Food - Restaurante familiar,3,4,12,SI,3167866541
+17,Gastrobar Bonprex,K 6 6 43,Restaurante familiar - Menú ejecutivo - Cocteles,8,4,32,SI,3137670997
+18,Super pollo Broaster,K 6 6 49,Restaurante familiar - Arroz paisa,8,4,32,SI,3117645409
+19,Don Burguer,K 6 6 57,Fast Food - Tacos - Hamburguesas,17,4,68,SI,3505812260
+20,Restaurante Cub de Ajedrez,C 13 K 5,Restaurante familiar - Comida corriente,17,4,68,SI,3108983874
+21,Asadero de Pollo Los Arrayanes,K 5 13 43,Restaurante familiar - Pollo asado al carbón,12,4,48,SI,6068572185
+22,Pollos KT,K 5 13 47,Restaurante familiar - Pollo asado al carbón,8,4,32,SI,3125121357
+23,Asadero donde Otto,K 5 13 51,Restaurante familiar - Pollo asado al carbón,13,4,52,SI,3104010178
+24,Bar y restaurante La Patrona,C 14 5 19,Restaurante tipo Buffet - Platos a la carta,27,4,108,SI,3104369909
+25,Coffee Time Bar,C 14 5 40,Restaurante Familiar - menú ejecutivo,6,4,24,SI,3144656546
+26,Cafetería Punto sabroso,Centro comercial,Take away - jugos - bebidas calientes - Sandwiches,1,4,4,SI,3125632188
+27,Cafetería Ani expres,Centro comercial,Take away - jugos - bebidas calientes - Sandwiches,1,4,4,SI,3122978736
+28,Cafetería Doña Ligia,Centro comercial,Take away - jugos - bebidas calientes - Sandwiches,1,4,4,SI,3114988395
+29,Restaurante La Sucursal,Centro comercial,Restaurante familiar - Comida corriente,2,4,8,SI,3125632188
+30,Restaurante La Paisita,Centro comercial,Restaurante familiar - Comida corriente,2,4,8,SI,3145754651
+31,Restaurante Éxito Chino,K 5 16 21,Restaurante temático - Restaurante Familiar,10,6,60,SI,3103582149
+32,Restaurante La Antioqueñita,Centro comercial,Restaurante familiar - Comida corriente,2,4,8,SI,3112157797
+33,Masato y Empanadas,K 6 7 34,Empanadas - Fast Food,4,4,16,SI,3103874427
+34,Restaurante Girachi,K 4 14 40,Restaurante familiar - Ejecutivos - platos a la carta,10,4,40,SI,3104757903
+35,Restaurante El Mesón,K 3 15 61,Restaurante familiar - Ejecutivos - platos a la carta,34,4,136,SI,3146000000
+36,Heladeria Sumbys,K 3 15 58,Helados - Ensaladas de frutas - café,20,4,80,SI,3145290893
+37,K Prichos,K 3 15 77,Helados artesanales - Ensaladas de frutas,20,5,100,SI,3126243282
+38,Restaurante Bocadito,C 16 2 60,Restaurante familiar - Ejecutivos - Platos a la carta,8,4,32,SI,3148968951
+39,Las ricuras del mar,C 16 2 44,Restaurante familiar - Comida de mar - Langostas,10,4,40,SI,3145651402
+40,Restaurante Bartolos,K 2 16 24,Restaurante familiar - Ejecutivos,5,4,20,SI,3104669925
+41,La Arepa cuadrada,K 2 17 06,Arepas Las Arrieras,8,4,32,SI,3128827380
+42,Asadero Restaurante Super pollo,K 2 15 36,Restaurante familiar - Pollo asado al carbón,7,4,28,SI,3235474322
+43,Restaurante de morir…carnes,C 16 1 21,Restaurante familiar - Carnes - Ensaladas buffet,12,4,48,SI,3104530049
+44,Restaurante El Puerto,K 1 15 70,Restaurante familiar - Pescados,8,6,48,SI,3128538245
+45,Rey Mar Restaurante,K 1 15 73,Restaurante familiar - Comida de mar y tierra,12,4,48,SI,3127525951
+46,El Puerto Llanero,C 16 K 1,Restaurante familiar - Carne a la llanera,21,4,84,SI,3138553593
+47,Restaurante Brisas del Magdalena,C 16 K 1,Restaurante familiar - Pescados,9,4,36,SI,3222950456
+48,Gastrobar  Heladería Copacabana,K 1 17 26,Restaurante familiar - Helados - Carnes,13,4,52,SI,3113728515
+49,Restaurante Pez Dorado,K 1 16 30,Restaurante familiar - Pescados,7,4,28,SI,3114499781
+50,Restaurante El Caribeño,K 1 16 28,Restaurante familiar - Pescados,25,4,100,SI,3213094652
+51,Kolozo Gastrobar,K 1 15 73 2° piso,Restaurante familiar - Ejecutivo - Fast food,15,4,60,SI,3136582723
+52,Restaurante Tamarindo Seco,K 1 14 02,Restaurante Gourmet - Ejecutivo - Muchacho a la naranja,20,4,80,SI,3004981307
+53,Porcicarnes,K 2 14 03,Restaurante familiar - Carne de cerdo,4,4,16,SI,3116208969
+54,Restaurante El Mosquito rumbero,C 14 K 4 Caseta 18,Restaurante familiar - Comida corriente - Mondongo,12,4,48,SI,3127428130
+55,Restaurante La Diana,C 14 frente Rapido,Restaurante familiar - Comida corriente,6,4,24,SI,3108164693
+56,Heladería Parque Principal,Parque Santander,Helados artesanales - Jugos tropicales,8,4,32,SI,3214925212
+57,La Sensación de los jugos,Frente parque S/der,Jugos tropicales - Ensaladas de frutas,4,4,16,SI,3136980177
+58,Doña Lola,Frente Hospital San Felix,Jugos tropicales - Ensaladas de frutas,6,4,24,SI,3166327662
+59,Manzanitas Heladería,K 2 11 14,Jugos tropicales - Ensaladas de frutas - Cholados,4,4,16,SI,3113586431
+60,Helados Milkys,K 6 18 61,Helado Sof Artesanal Blanca - Helados caseros,6,4,24,SI,3127911459
+61,Heladería y Frutería La Especial,C 11 4 17,Jugos naturales - Ensaladas de frutas - Granizadas,9,4,36,SI,3108312692
+62,Heladería La Manzana Verde,C 11 4 07,Jugos naturales - Ensaladas de frutas - Granizadas,15,4,60,SI,3117252086
+63,Heladería Donald,K 5 12 37,Jugos naturales - Helados - Ensaladas de frutas,20,4,80,SI,3232271269
+64,Frutifresquería La Barra del Sabor,C 13 6 82,Jugos naturales - Cholados - Ensaladas de frutas,12,4,48,SI,3225865977
+65,Restaurante Cocina Rica,K 7 12 89,Restaurante familiar - comida corriente,8,4,32,SI,3232866143
+66,Resaturante Piquetes,C 11 8 16,Restaurante familiar - Cocina colombiana,32,4,128,SI,3122896502
+67,Restaurante La Central,K 15 11 99,Restaurante familiar - Platos ejecutivos - Platos a la carta,24,6,144,SI,3146895447
+68,Restaurante Donde Augusto,K 7 40 06,Restaurante familiar - Comida corriente - Fast Food,22,4,88,SI,3113094800
+69,La Perrada de Mao,C 17 14 57,Fast Food,40,4,160,SI,3134209425
+70,Lluvia de hamburguesas Salomé,C 14 7 65,Fast Food,16,4,64,SI,3196196005
+71,Arroz Paisa,C 10 5 A 22,Restaurante tematico - Arros paisa premium - Ranchero,10,4,40,SI,3022757018
+72,Restaurante Steack Parrilla,C 10 6 37,Restaurante familiar - Comida corriente,10,4,40,SI,3215896166
+73,La Plazoleta Food Trucks and Drinks,C 10 K 5 A,Fast Food - Take away - Familiar,12,4,48,SI,3235327059
+74,Chandozos,K 5 10 43,Hot dogs pan artesanal - Take away,1,4,4,SI,3213345326
+75,Restaurante Los Mellos,K 6 13 62,Restaurante familiar - Comida corriente,9,4,36,SI,3107458142
+76,La Barra marina,C 10 B 7 03,Restaurante familiar - Cevichería - comida de mar,23,4,92,SI,3106401089
+77,Kanella,K 6 10 55,Restaurante familiar - granizadas - Jugos tropicales - Churrasco,10,4,40,SI,3127420042
+78,Frijoles Don Darío,Km 1 Prosocial,Restaurante familiar - Fríjoles - platos a la carta,20,4,80,SI,3206342386
+79,Lola Food,C 10 5 26,Restaurante familiar - Fast Food,4,4,16,SI,3007424136
+80,Danger Shake,C 10 5 22,Restaurante familiar - Fast Food - Alas BBQ - Burritos mixtos,5,4,20,SI,3178019131
+81,Comidas Rapidas BBQ El Gordo,K 4 Transversal 1,Fast Food - Take away - Familiar,5,4,20,SI,3143097096
+82,Sana tentación,K 6A 7 13,Tortas - Postres - Malteadas - Pan integral,2,4,8,SI,3234972678
+83,Carnales Comida mexicana,C 10 5 08,Restaurante Tematico - Nachos,9,4,36,SI,3137844428
+84,El Rancho de Juancho,K 10 10 A 17,Restaurante familiar - Fast Food - Carnes  Parrilla,12,4,48,SI,3145428983
+85,Granja La Guadalupe,K 2 C 5 SUR,Restaurante familiar - Parrilla - Granja - Show caballo,30,4,120,SI,3122716595
+86,Donde Leche Gastrobar,K 2 7 89,Restaurante familiar - Parilla - Cochinillo a la brasa,6,4,24,SI,3156829770
+87,Sancochos del Río,K 2 4 55,Restaurante familiar - Sancocho de gallina Kiolla,6,6,36,SI,3127247219
+88,Don Patacón,K 6 10 40,Restaurante familiar - Carnes - Fast Food - Patacón con todo,9,4,36,SI,3203350050
+89,Juancholaos,K 4 10 03,Helados - Ensaladas de frutas,9,4,36,SI,3174692327
+90,Repostería Pastelería Pin Uno,C 10 3 74,Tortas - postres - cafés,3,4,12,SI,3002972349
+91,La Portada Tradicional 2 Café parrilla Bar,C 10 4 60,Restaurante familiar - Platos ejecutivos - Platos a la carta,10,8,80,SI,3103577330
+92,La lomería steack,C 10 10 66,Restaurante familiar - Lomo fino - parrilla,18,4,72,SI,3104076159
+93,La Bufalera Restaurante,C 10 10 70,Restaurante Tematico - Parrilla - Especialidad La Bufalera,28,4,112,SI,3176680633
+94,Asadero Don Gallo,K 4 10 75,Restaurante familiar - Pollo asado al carbón,8,4,32,SI,3104069224
+95,Restaurante Parque acuático El Cortijo,Km 1 via Honda,Restaurante familiar - Carnes - pescados,10,6,60,SI,3218019688
+96,Restaurante La Parcela,K 4 C 7 Guarinocito,Restaurante familiar - platos a la carta - mirador,10,4,40,SI,3104271169
+97,La Casa del pandebono Parador Restaurante,Guarinocito Autopista,Restaurante familiar - Corriente - platos a la carta,30,4,120,SI,3228928455
+98,Parador Los Mangos Restaurante,Guarinocito Autopista,Restaurante familiar - Corriente - platos a la carta,19,4,76,SI,3106112786
+99,Restaurante Donde Elena,Guarinocito Autopista,Restaurante familiar - Corriente - platos a la carta,10,4,40,SI,3217869520
+100,Estader Los Brochero,Charca Guarinocito,Restaurante familiar - platos a la carta,10,4,40,SI,3223759077
+101,Estadero El Cacique,Charca Guarinocito,Restaurante familiar - Mojarra frita,5,4,20,SI,3226495831
+102,La Guarapera,Charca Guarinocito,Restaurante familiar - Mojarra rita - Guarapo,7,4,28,SI,3235914404
+103,El Escondite de Mao,Charca Guarinocito,Restaurante familiar - Mojarra frita - paseo en bote,10,4,40,SI,3168455204
+104,La Portada Tradicional  Parador restaurante,Purnio Autopista,Restaurante familiar - Cafeteria - Bar - parrilla,70,4,280,SI,3205536297
+105,Restaurante Donde La Mona,Purnio Autopista,Restaurante familiar - Platos a la carta,10,4,40,SI,3203304577
+106,Restaurante cempestre TUKU,Kuce a Victoria,Restaurante familiar - Platos a la carta - Parrilla,10,4,40,SI,3128036009
+107,Gastrobar Provenza,C 13 11 06,Restaurante familiar - Fast Food - Especial - Platos ejecutivos,8,4,32,SI,3043362564
+108,Restaurante APB Buenavista,Buenavista,Restaurante familiar - Comida corriente - pescado de río,10,4,40,SI,3172932333
+109,Restaurante Brisas del Río La Miel,Vereda La Atarraya,Restaurante familiar - Comida corriente - pescado de río,4,6,24,SI,3117490817
+110,Restaurante Doña Eva,Central de Abastos,Pescados - Comida corriente - Tamales fin de semana - Mirador,10,6,60,SI,3104360159
+111,Restaurante Doña Olga,Central de Abastos,Pescados - Comida corriente - Tamales fin de semana - Mirador,15,4,60,SI,3137368763
+112,Restaurante Donde Deicy,Central de Abastos,Pescados - Comida corriente - Tamales fin de semana - Mirador,10,6,60,SI,3212438746
+113,Restaurante Doña Gloria,Central de Abastos,Pescados - Comida corriente - Tamales fin de semana - Mirador,16,4,64,SI,3207261769
+114,Restaurante Luna,Central de Abastos,Pescados - Comida corriente - Tamales fin de semana - Mirador,9,4,36,SI,3104289060
+115,Picadas Martín,Central de Abastos,Picadas - Chunchulla - Rellena - Tamales - Bofe - Take away,2,4,8,SI,3148801080
+116,Picadas La Mona,Central de Abastos,Picadas - Chunchulla - Rellena - Tamales - Bofe - Take away,2,4,8,SI,3113010093
+117,Picadas Doris,Central de Abastos,Picadas - Chunchulla - Rellena - Tamales - Bofe - Take away,2,4,8,SI,3226118305
+118,Peto donde Fany,Central de Abastos,Peto - Buñuelos - Subidos,2,4,8,SI,3216455035
+119,Arepas la Vecinita,C 11A 12 35,Fast Food - Empanadas - Arepas - Chuzos - Chorizos,8,4,32,SI,3145493149
+120,Pizza El Paisa,K 10 C 10,Pizza - Fast Food,11,4,44,SI,3218518127
+121,Asados Master Chef,C 13 K 4 Esquina,Fast Food - Chorizos - Picadas - Jugos naturales,10,4,40,SI,3103382346
+122,Picnic Bar El Roble al aire libre,K 15 Ingreso La Melissa,Gastrobar Familiar - Fast Food - Carnes,25,4,100,SI,3104435569
+123,Restaurante Donde Marina,K 7 16 52,Restaurante familiar - Menús saludables - Carnes,10,6,60,SI,3136582387
