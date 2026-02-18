@@ -65,9 +65,6 @@ Exportar dataset limpio como: restaurantes_clean.csv
 # 📈 FASE 3 — Análisis en Python
 ## 1. Análisis descriptivo
 - Conteo total de restaurantes
-- Conteo por categoría
-- Top 5 categorías
-- Conteo por zona o barrio
 
 ## 2. Detección de patrones
 
