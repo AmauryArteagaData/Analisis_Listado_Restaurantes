@@ -69,3 +69,12 @@ df = df.drop_duplicates()
 #Exportar el dataframe limpio a un nuevo archivo CSV
 df.to_csv("restaurantes_la_dorada_caldas_limpio.csv", index=False)
 
+#FASE 3: ANÁLISIS EXPLORATORIO DE LOS DATOS
+#Distribución de los tipos de cocina
+plt.figure(figsize=(10, 6))
+df["casificación_por_concepto"].value_counts().plot(kind="bar")
+plt.title("Distribucion de los tipos de cocina")
+plt.xlabel("Tipo de cocina")
+plt.ylabel("Cantidad de restaurantes")
+
+plt.show()
