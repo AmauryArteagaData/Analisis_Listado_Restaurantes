@@ -68,3 +68,4 @@ df = df.drop_duplicates()
 
 #Exportar el dataframe limpio a un nuevo archivo CSV
 df.to_csv("restaurantes_la_dorada_caldas_limpio.csv", index=False)
+
